@@ -60,7 +60,7 @@
 
 กรณีคลิกขวา
 
-![](https://github.com/patimakorn54/LAB-03/blob/master/Capture1.JPG?raw=true)
+![](https://github.com/patimakorn54/LAB-03/blob/master/Capture2.JPG?raw=true)
 
 ##คำถาม 
 1.	นักศึกษาพบปัญหาในการคอมไพล์โปรแกรมหรือไม่ ถ้าเจอให้บอกที่ผิดและแนวทางการแก้ไข
