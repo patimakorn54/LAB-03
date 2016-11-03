@@ -53,7 +53,7 @@
 จากการทดลองพบว่า เมื่อคลิกเม้าที่จุดไหน จะมี Message Box ขึ้นค่าพิกัดของจุดที่เม้าคลิก
 
 
-!{}(https://github.com/patimakorn54/LAB-03/blob/master/Capture1.JPG?raw=true)
+![](https://github.com/patimakorn54/LAB-03/blob/master/Capture1.JPG?raw=true)
 
 ##คำถาม 
 1.	นักศึกษาพบปัญหาในการคอมไพล์โปรแกรมหรือไม่ ถ้าเจอให้บอกที่ผิดและแนวทางการแก้ไข
