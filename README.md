@@ -53,6 +53,13 @@
 จากการทดลองพบว่า เมื่อคลิกเม้าที่จุดไหน จะมี Message Box ขึ้นค่าพิกัดของจุดที่เม้าคลิก
 
 
+กรณีคลิกซ้าย
+
+![](https://github.com/patimakorn54/LAB-03/blob/master/Capture1.JPG?raw=true)
+
+
+กรณีคลิกขวา
+
 ![](https://github.com/patimakorn54/LAB-03/blob/master/Capture1.JPG?raw=true)
 
 ##คำถาม 
